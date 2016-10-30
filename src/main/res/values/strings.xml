@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DrawerLayoutTest</string>
+    <string-array name="menu_list">
+       <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
